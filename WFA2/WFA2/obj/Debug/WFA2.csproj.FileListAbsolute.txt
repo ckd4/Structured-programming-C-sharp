@@ -1,0 +1,21 @@
+C:\Users\user\Desktop\папоротник клемма тосол\WFA2\WFA2\bin\Debug\WFA2.exe.config
+C:\Users\user\Desktop\папоротник клемма тосол\WFA2\WFA2\bin\Debug\WFA2.exe
+C:\Users\user\Desktop\папоротник клемма тосол\WFA2\WFA2\bin\Debug\WFA2.pdb
+C:\Users\user\Desktop\папоротник клемма тосол\WFA2\WFA2\obj\Debug\WFA2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\папоротник клемма тосол\WFA2\WFA2\obj\Debug\WFA2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\папоротник клемма тосол\WFA2\WFA2\obj\Debug\WFA2.Form1.resources
+C:\Users\user\Desktop\папоротник клемма тосол\WFA2\WFA2\obj\Debug\WFA2.Properties.Resources.resources
+C:\Users\user\Desktop\папоротник клемма тосол\WFA2\WFA2\obj\Debug\WFA2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\папоротник клемма тосол\WFA2\WFA2\obj\Debug\WFA2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\папоротник клемма тосол\WFA2\WFA2\obj\Debug\WFA2.exe
+C:\Users\user\Desktop\папоротник клемма тосол\WFA2\WFA2\obj\Debug\WFA2.pdb
+C:\Users\user.UIT\Downloads\Voronina-main\WFA2\WFA2\bin\Debug\WFA2.exe.config
+C:\Users\user.UIT\Downloads\Voronina-main\WFA2\WFA2\bin\Debug\WFA2.exe
+C:\Users\user.UIT\Downloads\Voronina-main\WFA2\WFA2\bin\Debug\WFA2.pdb
+C:\Users\user.UIT\Downloads\Voronina-main\WFA2\WFA2\obj\Debug\WFA2.csprojAssemblyReference.cache
+C:\Users\user.UIT\Downloads\Voronina-main\WFA2\WFA2\obj\Debug\WFA2.Form1.resources
+C:\Users\user.UIT\Downloads\Voronina-main\WFA2\WFA2\obj\Debug\WFA2.Properties.Resources.resources
+C:\Users\user.UIT\Downloads\Voronina-main\WFA2\WFA2\obj\Debug\WFA2.csproj.GenerateResource.cache
+C:\Users\user.UIT\Downloads\Voronina-main\WFA2\WFA2\obj\Debug\WFA2.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\Downloads\Voronina-main\WFA2\WFA2\obj\Debug\WFA2.exe
+C:\Users\user.UIT\Downloads\Voronina-main\WFA2\WFA2\obj\Debug\WFA2.pdb
